@@ -25,3 +25,5 @@ Language: Python 3.12
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Statsmodels
 
 Environment: Jupyter Notebook / VS Code
+
+Gotten from Kaggle data from IAMHARDY
